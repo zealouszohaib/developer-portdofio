@@ -100,7 +100,7 @@ const profile = {
 
   return (
     <>
-      <main className="pt-20 lg:pt-[0rem] bg-[#020617] text-white min-h-screen">
+      <main className="pt-20 lg:pt-20 bg-[#020617] text-white min-h-screen">
         <section className="hero min-h-screen flex items-center relative px-4 sm:px-6 lg:px-8">
           <div className="absolute inset-0"></div>
 
