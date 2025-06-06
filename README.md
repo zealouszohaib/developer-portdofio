@@ -17,7 +17,7 @@ Welcome to my **portfolio website**! This site showcases my skills, experience, 
 
 ## Demo
 
-![Portfolio Demo](https://postimg.cc/SnvzVBnx)
+![image.png](https://i.postimg.cc/CKFHMYyK/image.png)
 
 ---
 
