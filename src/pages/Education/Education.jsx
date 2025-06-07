@@ -26,7 +26,7 @@ const EducationSection = () => {
     },
     {
       degree: "FSC (Pre-Engineering)",
-      school: "Punjab College Burewala",
+      school: "Govt.Islamia College, Kasur",
       mascot: "📚",
       year: "2019",
       achievements: ["marks: 98.6%"],
